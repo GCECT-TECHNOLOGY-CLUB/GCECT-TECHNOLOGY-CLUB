@@ -1,3 +1,4 @@
+![](https://github.com/GCECT-TECHNOLOGY-CLUB/GCECT-TECHNOLOGY-CLUB/blob/main/banner.jpg)
 <h1 align="center">Adios 🔥! We are GCECT TechClub</h1>
 <h3 align="center">A Group of highly motivated and driven individuals who are willing to learn from each other as well as share the knowledge with like-minded people. Sounds like your tribe? Join us to work for the development of the Tech Community of our college as well as learn new skills yourself.</h3>
 <h3 align="left"> We work in various domains and colaborate with each other through SIGs(Special Interest Groups). The various SIGs are:-</h3>
