@@ -8,7 +8,6 @@
   <li>CyberSecurity👨‍💻</li>
   <li>Machine Learing and Data Science📈</li>
 </ul>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gcect-technology-club&label=Profile%20views&color=0e75b6&style=flat" alt="gcect-technology-club" /> </p>
 
 
