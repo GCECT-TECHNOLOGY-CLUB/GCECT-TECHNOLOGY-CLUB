@@ -1,5 +1,13 @@
 <h1 align="center">Adios 🔥! We are GCECT TechClub</h1>
 <h3 align="center">A Group of highly motivated and driven individuals who are willing to learn from each other as well as share the knowledge with like-minded people. Sounds like your tribe? Join us to work for the development of the Tech Community of our college as well as learn new skills yourself.</h3>
+<h3 align="left"> We work in various domains and colaborate with each other through SIGs(Special Interest Groups). The various SIGs are:-</h3>
+<ul>
+  <li>Android/Mobile Development 📱</li>
+  <li>Web Development & Devops 💻</li>
+  <li>Competitive Coding📚</li>
+  <li>CyberSecurity👨‍💻</li>
+  <li>Machine Learing and Data Science📈</li>
+</ul>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gcect-technology-club&label=Profile%20views&color=0e75b6&style=flat" alt="gcect-technology-club" /> </p>
 
